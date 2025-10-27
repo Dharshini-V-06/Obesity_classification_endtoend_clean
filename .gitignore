@@ -1,0 +1,10 @@
+# Ignore Python environments and large binaries
+customer/
+venv/
+env/
+__pycache__/
+*.pkl
+*.dll
+*.so
+*.pyc
+.DS_Store
